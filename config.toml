@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.nagoi.net"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kelly's Card Shop"
 theme = "hugo-shopping-product-catalogue-simple"
